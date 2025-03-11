@@ -24,5 +24,5 @@ This is the code repository for the Temperature Scaling Self-Knowledge Distillat
 
 ### Clone or download this repo
 ```
-git clone https://github.com/JeaneyLau/semi-supervised-LDL.git
+git clone https://github.com/JeaneyLau/TSS-KD.git
 ```
