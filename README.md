@@ -4,7 +4,7 @@ This is the code repository for the Temperature Scaling Self-Knowledge Distillat
 
 ### Graphical Abstract
 <div align="center" >
-  <img src="https://github.com/JeaneyLau/semi-supervised-LDL/blob/main/image/Abstract.jpg">
+  <img src="https://github.com/JeaneyLau/TSS-KD/blob/main/image/Abstract.jpg">
 </div>
 
 ## Usage
